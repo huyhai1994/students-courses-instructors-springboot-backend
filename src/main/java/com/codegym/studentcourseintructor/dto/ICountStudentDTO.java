@@ -1,7 +1,7 @@
 package com.codegym.studentcourseintructor.dto;
 
 public interface ICountStudentDTO {
-    String getCourseTitle();
+    String getTitle();
 
-    String getNumberStudents();
+    String getNumber();
 }
